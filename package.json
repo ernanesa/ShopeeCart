@@ -1,0 +1,25 @@
+{
+  "name": "shopeecart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernanesa/ShopeeCart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ernanesa/ShopeeCart/issues"
+  },
+  "homepage": "https://github.com/ernanesa/ShopeeCart#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
